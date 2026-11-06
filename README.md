@@ -39,8 +39,3 @@ This repository contains a complete bioinformatics and machine learning pipeline
 ## Author
 Mandana AmeliMojarad
 
-# Write the text to a file named README.md
-writeLines(readme_text, "README.md")
-
-print("SUCCESS! 'README.md' has been created in your folder.")
-print("Upload this file to GitHub along with your other files.")
